@@ -1,0 +1,32 @@
+ <script src="jquery-1.11.1.min.js">
+    </script>  
+
+    <script>
+$(document).ready(function(){
+  $("#button").click(function(){
+      /* alert($("#box").serialize()); */
+      $.ajax(
+                {type:"GET",
+            url:'http://localhost:8080/SalaryEngine/recommend',
+            async: false,
+            cache: false,
+            dataType: "jsonp",
+            jsonp: 'callback',
+                jsonpCallback: 'jsonpCallback',
+            data: {"filter":$("#box").serialize()},
+            success: function(data){
+                alert(data.length);
+            }
+        });
+  });
+});
+</script>
+
+<?php
+	print '12';
+?>
+
+<form id="box"> 
+Keyword: <input type="text" name="filter" value="try!" />
+  <input id="button" value="search" type="button"/>
+</form>
