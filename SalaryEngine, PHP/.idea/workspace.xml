@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6fa90b4a-af8b-4e2f-a0ec-14b207dfaf03" name="Default" comment="" />
+    <ignored path="project.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="project" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="res.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="220" column="17" selection-start="9034" selection-end="9034" vertical-scroll-proportion="-136.25" vertical-offset="0" max-vertical-offset="4020">
+              <folding>
+                <element signature="e#3853#3914#0" expanded="false" />
+                <marker date="1398092068000" expanded="true" signature="5139:5249" placeholder="select * fro..Res_Loc..." />
+                <marker date="1398092068000" expanded="true" signature="5529:5576" placeholder="select * fro..Cui_Sup..." />
+                <marker date="1398092068000" expanded="true" signature="5588:5684" placeholder="select count..Res_Loc..." />
+                <marker date="1398092068000" expanded="true" signature="5696:5769" placeholder="select * fro..Com_Des_Post..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="28" selection-start="739" selection-end="739" vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="1035">
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#font#0;n#form#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Main.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/../carr/.idea/login1.php" />
+        <option value="$PROJECT_DIR$/../carr/login1.php" />
+        <option value="$PROJECT_DIR$/../carr/.idea/welcome.php" />
+        <option value="$PROJECT_DIR$/../carr/welcome.php" />
+        <option value="$PROJECT_DIR$/newly.php" />
+        <option value="$PROJECT_DIR$/connect.php" />
+        <option value="$PROJECT_DIR$/news.php" />
+        <option value="$PROJECT_DIR$/newly_Res.php" />
+        <option value="$PROJECT_DIR$/logout.php" />
+        <option value="$PROJECT_DIR$/food.php" />
+        <option value="$PROJECT_DIR$/comments.php" />
+        <option value="$PROJECT_DIR$/newly_Com.php" />
+        <option value="$PROJECT_DIR$/ranking.php" />
+        <option value="$PROJECT_DIR$/rec.php" />
+        <option value="$PROJECT_DIR$/res_list.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/bookmark.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/search.php" />
+        <option value="$PROJECT_DIR$/recommend.php" />
+        <option value="$PROJECT_DIR$/reservation.php" />
+        <option value="$PROJECT_DIR$/make_com.php" />
+        <option value="$PROJECT_DIR$/register.php" />
+        <option value="$PROJECT_DIR$/login.php" />
+        <option value="$PROJECT_DIR$/res.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="345" />
+    <option name="y" value="380" />
+    <option name="width" value="1280" />
+    <option name="height" value="641" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="ad" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../carr/" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6fa90b4a-af8b-4e2f-a0ec-14b207dfaf03" name="Default" comment="" />
+      <created>1396388903115</created>
+      <updated>1396388903115</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="345" y="380" width="1280" height="641" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1390625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32852563" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0990566" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/newly_Res.php</url>
+          <line>23</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/make_com.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="37" selection-start="1572" selection-end="1572" vertical-scroll-proportion="0.0" vertical-offset="580" max-vertical-offset="1185">
+          <folding>
+            <marker date="1397145154000" expanded="true" signature="-1:-1" placeholder="select max(C..." />
+            <marker date="1397145154000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="23" selection-start="2321" selection-end="2321" vertical-scroll-proportion="0.0" vertical-offset="885" max-vertical-offset="2295" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="199" column="61" selection-start="8017" selection-end="8017" vertical-scroll-proportion="0.0" vertical-offset="2565" max-vertical-offset="4050">
+          <folding>
+            <element signature="e#3853#3914#0" expanded="false" />
+            <marker date="1398092068000" expanded="true" signature="5139:5249" placeholder="select * fro..Res_Loc..." />
+            <marker date="1398092068000" expanded="true" signature="5529:5576" placeholder="select * fro..Cui_Sup..." />
+            <marker date="1398092068000" expanded="true" signature="5588:5684" placeholder="select count..Res_Loc..." />
+            <marker date="1398092068000" expanded="true" signature="5696:5769" placeholder="select * fro..Com_Des_Post..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="65" selection-start="1506" selection-end="1506" vertical-scroll-proportion="0.0" vertical-offset="205" max-vertical-offset="825">
+          <folding>
+            <marker date="1397145690000" expanded="true" signature="-1:-1" placeholder="select C.use..Customer..." />
+            <marker date="1397145690000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397145690000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/make_com.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="37" selection-start="1572" selection-end="1572" vertical-scroll-proportion="0.0" vertical-offset="580" max-vertical-offset="1185">
+          <folding>
+            <marker date="1397145154000" expanded="true" signature="-1:-1" placeholder="select max(C..." />
+            <marker date="1397145154000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="123" selection-start="3048" selection-end="3048" vertical-scroll-proportion="0.0" vertical-offset="1088" max-vertical-offset="2145" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="204" column="45" selection-start="8272" selection-end="8272" vertical-scroll-proportion="0.0" vertical-offset="2662" max-vertical-offset="4050">
+          <folding>
+            <element signature="e#3853#3914#0" expanded="false" />
+            <marker date="1398092068000" expanded="true" signature="5139:5249" placeholder="select * fro..Res_Loc..." />
+            <marker date="1398092068000" expanded="true" signature="5529:5576" placeholder="select * fro..Cui_Sup..." />
+            <marker date="1398092068000" expanded="true" signature="5588:5684" placeholder="select count..Res_Loc..." />
+            <marker date="1398092068000" expanded="true" signature="5696:5769" placeholder="select * fro..Com_Des_Post..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="29" selection-start="2718" selection-end="2718" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1695" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="38" selection-start="1973" selection-end="1973" vertical-scroll-proportion="0.0" vertical-offset="795" max-vertical-offset="1140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="44" selection-start="637" selection-end="656" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="825">
+          <folding>
+            <marker date="1397145690000" expanded="true" signature="-1:-1" placeholder="select C.use..Customer..." />
+            <marker date="1397145690000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397145690000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/make_com.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="30" selection-start="1507" selection-end="1507" vertical-scroll-proportion="0.0" vertical-offset="563" max-vertical-offset="1155">
+          <folding>
+            <marker date="1397145154000" expanded="true" signature="-1:-1" placeholder="select max(C..." />
+            <marker date="1397145154000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newly_Res.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="47" selection-start="2882" selection-end="2921" vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="120" column="29" selection-start="3081" selection-end="3081" vertical-scroll-proportion="0.0" vertical-offset="1800" max-vertical-offset="3015">
+          <folding>
+            <element signature="e#3853#3914#0" expanded="false" />
+            <marker date="1398092068000" expanded="true" signature="5139:5249" placeholder="select * fro..Res_Loc..." />
+            <marker date="1398092068000" expanded="true" signature="5529:5576" placeholder="select * fro..Cui_Sup..." />
+            <marker date="1398092068000" expanded="true" signature="5588:5684" placeholder="select count..Res_Loc..." />
+            <marker date="1398092068000" expanded="true" signature="5696:5769" placeholder="select * fro..Com_Des_Post..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="155" column="12" selection-start="3538" selection-end="4896" vertical-scroll-proportion="0.0" vertical-offset="2325" max-vertical-offset="2490" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="16" selection-start="4016" selection-end="4060" vertical-scroll-proportion="0.0" vertical-offset="1155" max-vertical-offset="1485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="13" selection-start="4121" selection-end="4121" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="990" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newly_Res.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="38" selection-start="2324" selection-end="2324" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="137" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+          <folding>
+            <element signature="e#3853#3914#0" expanded="false" />
+            <marker date="1398092068000" expanded="true" signature="5139:5249" placeholder="select * fro..Res_Loc..." />
+            <marker date="1398092068000" expanded="true" signature="5529:5576" placeholder="select * fro..Cui_Sup..." />
+            <marker date="1398092068000" expanded="true" signature="5588:5684" placeholder="select count..Res_Loc..." />
+            <marker date="1398092068000" expanded="true" signature="5696:5769" placeholder="select * fro..Com_Des_Post..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../carr/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="636" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="605" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../carr/registe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="31" selection-start="0" selection-end="2463" vertical-scroll-proportion="-21.458334" vertical-offset="535" max-vertical-offset="1140" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../carr/.idea/login1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="13" selection-start="0" selection-end="1215" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../carr/.idea/welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="47" selection-start="600" selection-end="600" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="375" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../carr/welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="36" selection-start="576" selection-end="576" vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../carr/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="1168" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="592" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../carr/login1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="17" selection-start="71" selection-end="71" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="615" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../carr/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="22" selection-start="1076" selection-end="1076" vertical-scroll-proportion="0.31634447" vertical-offset="0" max-vertical-offset="569" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../carr/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="33" selection-start="254" selection-end="269" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="390" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/news.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="2" selection-start="6110" selection-end="6110" vertical-scroll-proportion="-11.25" vertical-offset="0" max-vertical-offset="360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="130" selection-end="130" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="165" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../carr/comments_getting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../carr/posting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="8" selection-start="456" selection-end="527" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="6" selection-start="3432" selection-end="3432" vertical-scroll-proportion="-6.2083335" vertical-offset="526" max-vertical-offset="1125" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newly_Res.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="13" selection-start="2873" selection-end="2873" vertical-scroll-proportion="0.4814189" vertical-offset="60" max-vertical-offset="720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logout.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="2" selection-start="31" selection-end="31" vertical-scroll-proportion="-1.25" vertical-offset="0" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="153" selection-start="3106" selection-end="3106" vertical-scroll-proportion="-6.25" vertical-offset="225" max-vertical-offset="1020" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reservation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="5" selection-start="1538" selection-end="1538" vertical-scroll-proportion="1.016529" vertical-offset="0" max-vertical-offset="1095" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/newly_Com.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="119" selection-start="2049" selection-end="2309" vertical-scroll-proportion="0.9831081" vertical-offset="453" max-vertical-offset="1245" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/make_com.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="37" selection-start="1572" selection-end="1572" vertical-scroll-proportion="0.0" vertical-offset="580" max-vertical-offset="1185">
+          <folding>
+            <marker date="1397145154000" expanded="true" signature="-1:-1" placeholder="select max(C..." />
+            <marker date="1397145154000" expanded="true" signature="-1:-1" placeholder="insert into ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="21" selection-start="2511" selection-end="2511" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="675">
+          <folding>
+            <marker date="1396907232000" expanded="true" signature="-1:-1" placeholder="select * fro..COM_DES_POST..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/food.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="16" selection-start="3078" selection-end="3078" vertical-scroll-proportion="0.0" vertical-offset="59" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="38" selection-start="1973" selection-end="1973" vertical-scroll-proportion="0.0" vertical-offset="795" max-vertical-offset="1140">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ranking.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="33" selection-end="412" vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="1020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="2" selection-start="1728" selection-end="1728" vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="870">
+          <folding>
+            <marker date="1397062842000" expanded="true" signature="-1:-1" placeholder="select C.boo..Address..." />
+            <marker date="1397062842000" expanded="true" signature="-1:-1" placeholder="select R.rna..Res_Loc..." />
+            <marker date="1397062842000" expanded="true" signature="-1:-1" placeholder="select R.rna..Res_Loc..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="23" selection-start="2321" selection-end="2321" vertical-scroll-proportion="1.7398945" vertical-offset="0" max-vertical-offset="2295" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="53" selection-start="290" selection-end="290" vertical-scroll-proportion="0.2231405" vertical-offset="0" max-vertical-offset="605">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bettolona2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="65" selection-start="1506" selection-end="1506" vertical-scroll-proportion="1.0413224" vertical-offset="0" max-vertical-offset="825">
+          <folding>
+            <marker date="1397145690000" expanded="true" signature="-1:-1" placeholder="select C.use..Customer..." />
+            <marker date="1397145690000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1397145690000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmark.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="5" selection-start="896" selection-end="896" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="600">
+          <folding>
+            <marker date="1397018797000" expanded="true" signature="-1:-1" placeholder="select C.boo..Customer..." />
+            <marker date="1397018797000" expanded="true" signature="-1:-1" placeholder="update Custo..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="51" selection-start="1071" selection-end="1071" vertical-scroll-proportion="-15.0" vertical-offset="0" max-vertical-offset="1515">
+          <folding>
+            <marker date="1397061626000" expanded="true" signature="-1:-1" placeholder="select com1...COM_DES_POST..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="220" column="17" selection-start="9034" selection-end="9034" vertical-scroll-proportion="-136.25" vertical-offset="0" max-vertical-offset="4020">
+          <folding>
+            <element signature="e#3853#3914#0" expanded="false" />
+            <marker date="1398092068000" expanded="true" signature="5139:5249" placeholder="select * fro..Res_Loc..." />
+            <marker date="1398092068000" expanded="true" signature="5529:5576" placeholder="select * fro..Cui_Sup..." />
+            <marker date="1398092068000" expanded="true" signature="5588:5684" placeholder="select count..Res_Loc..." />
+            <marker date="1398092068000" expanded="true" signature="5696:5769" placeholder="select * fro..Com_Des_Post..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="28" selection-start="739" selection-end="739" vertical-scroll-proportion="0.5769231" vertical-offset="0" max-vertical-offset="1035">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#form#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
