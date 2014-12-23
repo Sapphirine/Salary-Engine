@@ -1,0 +1,6 @@
+{
+    "train_data_path": "D:/CU/Big Data/FinalProgect/Salary Engin/Data/Train_rev1.csv",
+    "valid_data_path": "D:/CU/Big Data/FinalProgect/Salary Engin/Data/Valid_rev2.csv",
+    "model_path": "D:/CU/Big Data/FinalProgect/Salary Engin/Models/random_forest.pickle",
+    "prediction_path": "D:/CU/Big Data/FinalProgect/Salary Engin/Submissions/random_forest_benchmark.csv"
+}
